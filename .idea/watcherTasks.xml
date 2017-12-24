@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectTasksOptions" suppressed-tasks="Pug/Jade">
-    <TaskOptions isEnabled="true">
+  <component name="ProjectTasksOptions" suppressed-tasks="Pug/Jade;Babel">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="$FileName$  --pretty --out $ProjectFileDir$/build/html" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />

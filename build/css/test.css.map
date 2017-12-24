@@ -1,0 +1,1 @@
+{"version":3,"file":"test.css","sources":["test.scss"],"sourcesContent":["@charset \"UTF-8\";\r\n\r\nhtml,body{\r\n  margin: 0;\r\n  padding: 0;\r\n  font-size: 16px;\r\n}\r\n\r\n"],"names":[],"mappings":"AAEA,AAAA,IAAI,EAAC,AAAA,IAAI,CAAA;EACP,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,SAAS,EAAE,IAAI,GAChB"}
